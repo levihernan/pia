@@ -7,7 +7,7 @@ Projecttext:
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 - Inversion: **€40000**
-- Venta: **€50000**
+- Venta: **€500000**
 - Beneficios: **€10000**
 
 ***

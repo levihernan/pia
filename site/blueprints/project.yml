@@ -1,6 +1,8 @@
 title: Project
 pages: false
 files: true
+preview: false
+
 fields:
   title:
     label: Titulo (interno)
