@@ -26,7 +26,7 @@ Title: barca
 
 ----
 
-Projectquoteimg: image.jpg
+Projectquoteimg: foto-sandra.jpg
 
 ----
 
@@ -34,4 +34,4 @@ Projectquotetext: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed 
 
 ----
 
-Projectimage: image.jpg
+Projectimage: operaciones-ciutat-vella.png

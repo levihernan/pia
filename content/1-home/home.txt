@@ -26,7 +26,7 @@ Icon1title: PROFESIONALISMO
 
 ----
 
-Icon1text: Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
+Icon1text: Careful attention to detail and clean, well structured code
 
 ----
 
@@ -58,11 +58,11 @@ Abouttitle: Sobre nosotros
 
 ----
 
-Aboutimage: image.jpg
+Aboutimage: sobre-nosotros-01.jpg
 
 ----
 
-Aboutsubtitle: Subtitulo
+Aboutsubtitle: Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
 
 ----
 
@@ -81,7 +81,7 @@ Services1title: Titulo 1
 
 ----
 
-Services1image: image.jpg
+Services1image: servicios-arquitectura-01.jpg
 
 ----
 
@@ -93,7 +93,7 @@ Services2title: Titulo 2
 
 ----
 
-Services2image: image.jpg
+Services2image: servicios-financieros-01.jpg
 
 ----
 
@@ -105,7 +105,7 @@ Services3title: Titulo 3
 
 ----
 
-Services3image: image.jpg
+Services3image: servicios-fiscales-01.jpg
 
 ----
 
@@ -117,7 +117,7 @@ Services4title: Titulo 4
 
 ----
 
-Services4image: image.jpg
+Services4image: servicios-inmobiliaria-03.jpg
 
 ----
 
