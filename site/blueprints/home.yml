@@ -1,0 +1,211 @@
+title: Home
+pages: false
+files: true
+fields:
+  # title:
+  #   label: Title
+  #   type:  text
+  # text:
+  #   label: Text
+  #   type:  textarea
+
+  headerHeading:
+    label: Heading
+    type: headline
+
+  headerTitle:
+    label: Titulo principal
+    type:  text
+    width: 1/2
+    placeholder: PIA
+
+  headerTitle2:
+    label: Titulo secundario
+    type:  text
+    width: 1/2
+    placeholder: PIA
+
+  headerBackground:
+    label: Imagen de fondo
+    type:  image
+    required: True
+
+  headerSubtitle:
+    label: Subtitulo fijo
+    type:  text
+    width: 1/3
+    placeholder: Operaciones
+
+  headerRotate:
+    label: Subtitulo rotativo
+    type:  text
+    width: 2/3
+    help:  Palabras separadas con |
+    placeholder: Inmobiliarias | Personales | Seguras
+
+  iconsHeading:
+    label: Iconos
+    type:  headline
+
+  icon1Icon:
+    label: Icono 1
+    type:  text
+    width: 1/2
+    help:  <a target="_blank" href="https://markup.themewagon.com/titan/icons.html">Lista de iconos</a>
+    placeholder: icon-lightbulb
+
+  icon1Title:
+    label: Titulo 1
+    type:  text
+    width: 1/2
+
+  icon1Text:
+    label: Texto 1
+    type:  text
+
+  icon2Icon:
+    label: Icono 2
+    type:  text
+    width: 1/2
+    help:  <a target="_blank" href="https://markup.themewagon.com/titan/icons.html">Lista de iconos</a>
+    placeholder: icon-lightbulb
+
+  icon2Title:
+    label: Titulo 2
+    type:  text
+    width: 1/2
+
+  icon2Text:
+    label: Texto 2
+    type:  text
+
+  icon3Icon:
+    label: Icono 3
+    type:  text
+    width: 1/2
+    help:  <a target="_blank" href="https://markup.themewagon.com/titan/icons.html">Lista de iconos</a>
+    placeholder: icon-lightbulb
+
+  icon3Title:
+    label: Titulo 3
+    type:  text
+    width: 1/2
+
+  icon3Text:
+    label: Texto 3
+    type:  text
+
+
+  aboutHeader:
+    label: About us
+    type:  headline
+
+  aboutTitle:
+    label: Titulo
+    type:  text
+    width: 1/2
+
+  aboutImage:
+    label: Imagen
+    type:  image
+    width: 1/2
+    required: True
+
+  aboutSubtitle:
+    label: Subtitulo
+    type:  text
+
+  aboutText:
+    label: Texto
+    type:  textarea
+
+
+  servicesHeader:
+    label: Servicios
+    type:  headline
+
+  servicesTitle:
+    label: Titulo de seccion
+    type:  text
+
+  services1Title:
+    label: Titulo 1
+    type:  text
+    width: 1/2
+
+  services1Image:
+    label: Imagen 1
+    type:  image
+    required: True
+    width: 1/2
+
+  services1Text:
+    label: Texto 1
+    type:  text
+
+
+  services2Title:
+    label: Titulo 2
+    type:  text
+    width: 1/2
+
+  services2Image:
+    label: Imagen 2
+    type:  image
+    required: True
+    width: 1/2
+
+  services2Text:
+    label: Texto 2
+    type:  text
+
+
+  services3Title:
+    label: Titulo 3
+    type:  text
+    width: 1/2
+
+  services3Image:
+    label: Imagen 3
+    type:  image
+    required: True
+    width: 1/2
+
+  services3Text:
+    label: Texto 3
+    type:  text
+
+
+  services4Title:
+    label: Titulo 4
+    type:  text
+    width: 1/2
+
+  services4Image:
+    label: Imagen 4
+    type:  image
+    required: True
+    width: 1/2
+
+  services4Text:
+    label: Texto 4
+    type:  text
+
+  contactHeader:
+    label: Contacto
+    type:  headline
+
+  contactMail:
+    label: Mail
+    type:  text
+    width: 1/3
+
+  contactAddress:
+    label: Direccion
+    type:  text
+    width: 1/3
+
+  contactPhone:
+    label: Telefono
+    type:  text
+    width: 1/3

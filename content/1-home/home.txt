@@ -1,0 +1,140 @@
+Title: One-Scroll
+
+----
+
+Headertitle: PIA
+
+----
+
+Headerbackground: servicios-inmobiliaria-01.jpg
+
+----
+
+Headersubtitle: Operaciones
+
+----
+
+Headerrotate: Inmobiliarias | Personales | Seguras
+
+----
+
+Icon1icon: icon-lightbulb
+
+----
+
+Icon1title: PROFESIONALISMO
+
+----
+
+Icon1text: Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
+
+----
+
+Icon2icon: icon-tools
+
+----
+
+Icon2title: CERCANÍA CON EL CLIENTE
+
+----
+
+Icon2text: Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
+
+----
+
+Icon3icon: icon-lightbulb
+
+----
+
+Icon3title: ASESORAMIENTO EN INVERSIONES
+
+----
+
+Icon3text: Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
+
+----
+
+Abouttitle: Sobre nosotros
+
+----
+
+Aboutimage: image.jpg
+
+----
+
+Aboutsubtitle: Subtitulo
+
+----
+
+Abouttext: 
+
+Lorem ipsum dolor sit amet, **consectetur** adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo *consequat*.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+----
+
+Servicestitle: Servicios
+
+----
+
+Services1title: Titulo 1
+
+----
+
+Services1image: image.jpg
+
+----
+
+Services1text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+----
+
+Services2title: Titulo 2
+
+----
+
+Services2image: image.jpg
+
+----
+
+Services2text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+----
+
+Services3title: Titulo 3
+
+----
+
+Services3image: image.jpg
+
+----
+
+Services3text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+----
+
+Services4title: Titulo 4
+
+----
+
+Services4image: image.jpg
+
+----
+
+Services4text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+----
+
+Contactmail: email@gmail.com
+
+----
+
+Contactaddress: RUE DE LA PESCATERIA 3, BARCELONA, 08003
+
+----
+
+Contactphone: (+34) 603 477777
+
+----
+
+Headertitle2: Personal Investments Advisors

@@ -1,0 +1,7 @@
+title: Projects
+pages: project
+files: false
+fields:
+  title:
+    label: Title
+    type:  text

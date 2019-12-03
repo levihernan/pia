@@ -1,0 +1,33 @@
+title: Project
+pages: false
+files: true
+fields:
+
+  projectTitle:
+    label: Titulo
+    type:  text
+
+  projectImage:
+    label: Imagen
+    type:  image
+    required: True
+
+  projectText:
+    label: Texto
+    type:  textarea
+
+  projectQuoteBool:
+    label: Quote
+    type:  checkbox
+    text:  Mostrar
+    width: 1/3
+
+  projectQuoteImg:
+    label: Foto
+    type:  image
+    width: 1/3
+
+  projectQuoteText:
+    label: Texto
+    type:  text
+    width: 1/3
