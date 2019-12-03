@@ -1,4 +1,4 @@
-Projecttitle: Barcelona - Ciutat Vella
+Projecttitle: BCN - Ciutat Vella
 
 ----
 
@@ -22,7 +22,7 @@ Projectquotebool: 1
 
 ----
 
-Title: barca
+Title: Ciutat Vella
 
 ----
 

@@ -2,15 +2,20 @@ title: Project
 pages: false
 files: true
 fields:
+  title:
+    label: Titulo (interno)
+    type:  text
 
   projectTitle:
     label: Titulo
     type:  text
+    width: 1/2
 
   projectImage:
     label: Imagen
     type:  image
     required: True
+    width: 1/2
 
   projectText:
     label: Texto

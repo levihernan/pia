@@ -14,12 +14,12 @@ RewriteEngine on
 # If your homepage is http://yourdomain.com/mysite
 # Set the RewriteBase to:
 #
-RewriteBase /misc/pia
+# RewriteBase /misc/pia
 
 # In some enviroments it's necessary to
 # set the RewriteBase to:
 #
-# RewriteBase /
+RewriteBase /
 
 # block text files in the content folder from being accessed directly
 RewriteRule ^content/(.*)\.(txt|md|mdown)$ index.php [L]
