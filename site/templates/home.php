@@ -76,19 +76,19 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12">
               <div class="content-box">
-                <div class="content-box-image"><img <?php if($page->services2Image()->isNotEmpty()): ?>src="<?= $page->services1Image()->toFile()->url() ?>" <?php endif ?>/></div>
+                <div class="content-box-image"><img <?php if($page->services2Image()->isNotEmpty()): ?>src="<?= $page->services2Image()->toFile()->url() ?>" <?php endif ?>/></div>
                 <h3 class="content-box-title font-serif"><?= $page->services2Title()->text() ?></h3><?= $page->services2Text()->text() ?>
               </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12">
               <div class="content-box">
-                <div class="content-box-image"><img <?php if($page->services3Image()->isNotEmpty()): ?>src="<?= $page->services1Image()->toFile()->url() ?>" <?php endif ?>/></div>
+                <div class="content-box-image"><img <?php if($page->services3Image()->isNotEmpty()): ?>src="<?= $page->services3Image()->toFile()->url() ?>" <?php endif ?>/></div>
                 <h3 class="content-box-title font-serif"><?= $page->services3Title()->text() ?></h3><?= $page->services3Text()->text() ?>
               </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12">
               <div class="content-box">
-                <div class="content-box-image"><img <?php if($page->services4Image()->isNotEmpty()): ?>src="<?= $page->services1Image()->toFile()->url() ?>" <?php endif ?>/></div>
+                <div class="content-box-image"><img <?php if($page->services4Image()->isNotEmpty()): ?>src="<?= $page->services4Image()->toFile()->url() ?>" <?php endif ?>/></div>
                 <h3 class="content-box-title font-serif"><?= $page->services4Title()->text() ?></h3><?= $page->services4Text()->text() ?>
               </div>
             </div>
