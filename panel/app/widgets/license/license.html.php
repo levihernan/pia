@@ -8,8 +8,13 @@
   padding-left: .25em;
 }
 </style>
-<!-- <div class="dashboard-box dashboard-license-box">
+<div class="dashboard-box dashboard-license-box">
   <div class="text">
-    <?php echo $text ?>
+    <!-- <?php echo $text ?> -->
+    55PdmS7K
+    BzqymVFg
+    GJ8Yanmq
+    bsk8Gpcy
+    XpNkdHTy
   </div>
-</div> -->
+</div>
