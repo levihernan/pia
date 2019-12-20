@@ -1,6 +1,8 @@
 title: Page
 pages: false
 files: true
+preview: false
+
 fields:
   title:
     label: Title

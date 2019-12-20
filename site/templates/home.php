@@ -119,7 +119,7 @@
               <div class="row">
                 <div class="col-sm-12">
                   <h2 class="module-title font-alt align-center"><?= $project->projectTitle()->text() ?></h2>
-                  <div class="project-text col-sm-12 col-md-8 col-md-offset-2 align-center">
+                  <div class="project-text col-sm-12 col-md-10 col-md-offset-1 align-center">
                     <?= $project->projectText()->kirbytext() ?>
                   </div>
                   <?php if($project->projectQuoteBool()->bool()): ?>
