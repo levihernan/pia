@@ -65,3 +65,23 @@
     text-align: center !important;
   }
 }
+
+section.module, div.side-image-text, div.main {
+    background: #000;
+    color: #fff !important;
+}
+
+.features-icon, .features-title, .module-title, .module-subtitle, .content-box-title {
+  color: #ff0 !important
+}
+
+.side-image-text{
+  padding: 60px 40px;
+}
+
+.project-text{
+  text-align: justify;
+}
+.project-quote-text{
+  text-transform: none !important;
+}
