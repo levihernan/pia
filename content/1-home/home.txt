@@ -22,35 +22,35 @@ Icon1icon: icon-lightbulb
 
 ----
 
-Icon1title: PROFESIONALISMO
+Icon1title: CONCEPTO
 
 ----
 
-Icon1text: Careful attention to detail and clean, well structured code
+Icon1text: Nos encargamos de encontrar la mejor operación según cada tipo de cliente. Gestionamos por ti toda la operación, de principio a fin.
 
 ----
 
-Icon2icon: icon-tools
+Icon2icon: icon-linegraph
 
 ----
 
-Icon2title: CERCANÍA CON EL CLIENTE
+Icon2title: BENEFICIO
 
 ----
 
-Icon2text: Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
+Icon2text: Haz crecer tu capital de forma segura.
 
 ----
 
-Icon3icon: icon-lightbulb
+Icon3icon: icon-profile-female
 
 ----
 
-Icon3title: ASESORAMIENTO EN INVERSIONES
+Icon3title: PERSONALIZADO
 
 ----
 
-Icon3text: Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
+Icon3text: Proyectos únicos, hechos a medida para ti. Asesores personales a tu disposición SIEMPRE.
 
 ----
 
@@ -62,14 +62,17 @@ Aboutimage: sobre-nosotros-01.jpg
 
 ----
 
-Aboutsubtitle: Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
+Aboutsubtitle: Somos consultores expertos en asesoramiento integral de operaciones inmobiliarias.
 
 ----
 
 Abouttext: 
 
-Lorem ipsum dolor sit amet, **consectetur** adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo *consequat*.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+PIA. P de PERSONAL, el valor más significativo de nuestro trabajo.
+No somos una gran empresa en la que los clientes son sólo un número. 
+Tendremos una relación de TÚ a TÚ.
+Llevaremos tu caso de manera INDIVIDUAL, estudiaremos tu situación y sacaremos el mayor rendimiento posible según cada necesidad.
+Cada operación es diferente = Cada cliente es diferente.
 
 ----
 
@@ -77,19 +80,19 @@ Servicestitle: Servicios
 
 ----
 
-Services1title: Titulo 1
+Services1title: Legal & Fiscal
 
 ----
 
-Services1image: servicios-arquitectura-01.jpg
+Services1image: servicios-fiscales-01.jpg
 
 ----
 
-Services1text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Services1text: Trabajamos con un despacho de abogados expertos que nos asesora, estudiando el perfil de cada inversor, de la mejor estrategia fiscal y legal para realizar la operación.
 
 ----
 
-Services2title: Titulo 2
+Services2title: Financiero
 
 ----
 
@@ -97,23 +100,23 @@ Services2image: servicios-financieros-01.jpg
 
 ----
 
-Services2text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Services2text: Estudiando toda la documentación aportada y a través de un prescoring con muchos bancos españoles, obtenemos el importe máximo a financiar y las mejores condiciones, según cada caso.
 
 ----
 
-Services3title: Titulo 3
+Services3title: Arquitectura
 
 ----
 
-Services3image: servicios-fiscales-01.jpg
+Services3image: servicios-arquitectura-01.jpg
 
 ----
 
-Services3text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Services3text: Trabajamos mano a mano junto a un despacho de arquitectura de confianza.
 
 ----
 
-Services4title: Titulo 4
+Services4title: Inmobiliaria
 
 ----
 
@@ -121,19 +124,19 @@ Services4image: servicios-inmobiliaria-03.jpg
 
 ----
 
-Services4text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Services4text: Nos encargamos de darle salida a su inversión, tratando de sacar el mayor beneficio y en el menor tiempo posible.
 
 ----
 
-Contactmail: email@gmail.com
+Contactmail: pia.advisors@gmail.com
 
 ----
 
-Contactaddress: RUE DE LA PESCATERIA 3, BARCELONA, 08003
+Contactaddress: BARCELONA
 
 ----
 
-Contactphone: (+34) 603 477777
+Contactphone: (+34) 695 36 41 04
 
 ----
 

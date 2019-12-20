@@ -9,5 +9,5 @@ password: >
 language: es_ES
 role: editor
 history:
-  - home
   - projects/barca
+  - home

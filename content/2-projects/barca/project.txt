@@ -4,17 +4,16 @@ Projecttitle: BCN - Ciutat Vella
 
 Projecttext: 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Una clienta nos encargó una operación de inversión máxima de 250.000€. Encontramos un piso en el barrio de Ciutat Vella, una zona con alta demanda, que ayudaría a una rápida salida en su futura venta. El piso se tenía que reformar completamente, poca gente hubiera visto su potencial, pero tenia bastante altura, un par de balconcitos y ascensor. Planteamos números junto a nuestra clienta y pasado un mes y medio desde el encargo, estábamos escriturando la compra. 
 
-- Inversion: **€40000**
-- Venta: **€50000**
-- Beneficios: **€10000**
+Se reformó rescatando elementos originales de la arquitectura del edificio, una vez terminada la obra se puso en venta y a los 9 meses desde el inicio de la operación, se escrituró su venta, obteniendo una plusvalía neta del 19%.
 
+
+- Inversión: **217.459 €**
+- Venta: **260.000 €**
 ***
-
-- Inversion: **€40000**
-- Venta: **€50000**
-- Plus valia: **15%   *8 meses* **
+- Beneficio: **41.317 €**
+- Plusvalía: **19%   *9 meses* **
 
 ----
 
@@ -30,7 +29,7 @@ Projectquoteimg: foto-sandra.jpg
 
 ----
 
-Projectquotetext: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Projectquotetext: Podría destacar la facilidad con la que ha transcurrido todo el proceso. No tenía claro dónde invertir el dinero, pero después de haber hecho esta operación con PIA, la tranquilidad que te dan y los resultados finales, dan ganas de hacer más operaciones juntos.
 
 ----
 
