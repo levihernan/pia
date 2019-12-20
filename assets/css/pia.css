@@ -75,13 +75,24 @@ section.module, div.side-image-text, div.main {
   color: #ff0 !important
 }
 
-.side-image-text{
-  padding: 60px 40px;
-}
 
 .project-text{
   text-align: justify;
 }
 .project-quote-text{
   text-transform: none !important;
+}
+
+.titan-title-size-2 {
+  color: #ff0
+}
+
+@media (min-width: 767px) {
+  .side-image-text{
+    padding: 60px 40px;
+  }
+  .module-title{
+    margin-bottom: 50px;
+  }
+
 }

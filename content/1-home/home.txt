@@ -58,7 +58,7 @@ Abouttitle: Sobre nosotros
 
 ----
 
-Aboutimage: sobre-nosotros-01.jpg
+Aboutimage: about us byw.jpeg
 
 ----
 
@@ -84,7 +84,7 @@ Services1title: Legal & Fiscal
 
 ----
 
-Services1image: servicios-fiscales-01.jpg
+Services1image: servicios fisc byw.jpeg
 
 ----
 
@@ -96,7 +96,7 @@ Services2title: Financiero
 
 ----
 
-Services2image: servicios-financieros-01.jpg
+Services2image: servicios fin byw.jpeg
 
 ----
 
@@ -108,7 +108,7 @@ Services3title: Arquitectura
 
 ----
 
-Services3image: servicios-arquitectura-01.jpg
+Services3image: servicios arq byw.jpeg
 
 ----
 
@@ -120,7 +120,7 @@ Services4title: Inmobiliaria
 
 ----
 
-Services4image: servicios-inmobiliaria-03.jpg
+Services4image: servicios inm byw.jpeg
 
 ----
 
