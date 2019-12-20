@@ -114,8 +114,8 @@
         <?php $i++ ?>
         <section class="module pt-0 pb-0" id="about">
           <div class="row position-relative m-0">
-            <div class="col-xs-12 col-md-6 <?php if (!($i%2)): ?>col-md-offset-6<?php endif ?> side-image" <?php if ($project->projectImage()->isNotEmpty()):?>data-background="<?= $project->projectImage()->toFile()->url() ?>" <?php endif ?>></div>
-            <div class="col-xs-12 col-md-6 <?php if ($i%2): ?>col-md-offset-6<?php endif ?> side-image-text">
+            <div class="col-xs-12 col-md-7 <?php if (!($i%2)): ?>col-md-offset-5<?php endif ?> side-image" <?php if ($project->projectImage()->isNotEmpty()):?>data-background="<?= $project->projectImage()->toFile()->url() ?>" <?php endif ?>></div>
+            <div class="col-xs-12 col-md-7 <?php if ($i%2): ?>col-md-offset-5<?php endif ?> side-image-text">
               <div class="row">
                 <div class="col-sm-12">
                   <h2 class="module-title font-alt align-center"><?= $project->projectTitle()->text() ?></h2>
