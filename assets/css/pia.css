@@ -71,8 +71,8 @@ section.module, div.side-image-text, div.main {
     color: #fff !important;
 }
 
-.features-icon, .features-title, .module-title, .module-subtitle, .content-box-title {
-  color: #ff0 !important
+.features-icon, .features-title, .module-title, .module-subtitle, .content-box-title, .titan-title-size-2 {
+  color: #cc0 !important
 }
 
 
@@ -83,9 +83,6 @@ section.module, div.side-image-text, div.main {
   text-transform: none !important;
 }
 
-.titan-title-size-2 {
-  color: #cc0
-}
 
 @media (min-width: 767px) {
   .side-image-text{
