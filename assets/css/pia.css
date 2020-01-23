@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'vonique';
-  src: url('../fonts/vonique_64/Vonique64.ttf');
-  src: url('../fonts/vonique_64/Vonique64.ttf')  format('truetype'); /* Safari, Android, iOS */
+  src: url('../fonts/vonique_64/Vonique 64 Bold.ttf');
+  src: url('../fonts/vonique_64/Vonique 64 Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
 }
 
 
@@ -92,7 +92,7 @@ section.module, div.side-image-text, div.main {
 
 .yellow {
   color: #ff0 !important;
-  font-family: vonique
+  font-family: vonique, sans-serif;
 }
 
 @media (min-width: 767px) {
