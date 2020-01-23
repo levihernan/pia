@@ -10,7 +10,7 @@
     <section class="home-section home-parallax home-fade home-full-height bg-dark-60 agency-page-header" <?php if ($page->headerBackground()->isNotEmpty()):?>data-background="<?= $page->headerBackground()->toFile()->url() ?>" <?php endif ?>>
       <div class="titan-caption">
         <div class="caption-content">
-          <div class="font-alt titan-title-size-4"><?= $page->headerTitle()->text() ?></div>
+          <div class="font-alt titan-title-size-4 yellow"><?= $page->headerTitle()->text() ?></div>
             <div class="font-alt mb-30 titan-title-size-2 yellow"><?= $page->headerTitle2()->text() ?></div>
           <div class="font-alt mb-40 titan-title-size-3"><?= $page->headerSubtitle()->text() ?> <span class="rotate"><?= $page->headerRotate()->text() ?></span>
           </div><a class="section-scroll btn btn-border-w btn-circle" href="#icons">Saber más</a>

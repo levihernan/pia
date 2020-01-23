@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'vonique';
+  src: url('../fonts/vonique_64/Vonique64.ttf');
+  src: url('../fonts/vonique_64/Vonique64.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+
 .work-item .work-caption {
     bottom: 50%;
     opacity: 1;
@@ -85,6 +92,7 @@ section.module, div.side-image-text, div.main {
 
 .yellow {
   color: #ff0 !important;
+  font-family: vonique
 }
 
 @media (min-width: 767px) {
