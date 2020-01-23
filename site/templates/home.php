@@ -11,7 +11,7 @@
       <div class="titan-caption">
         <div class="caption-content">
           <div class="font-alt titan-title-size-4"><?= $page->headerTitle()->text() ?></div>
-            <div class="font-alt mb-30 titan-title-size-2"><?= $page->headerTitle2()->text() ?></div>
+            <div class="font-alt mb-30 titan-title-size-2 yellow"><?= $page->headerTitle2()->text() ?></div>
           <div class="font-alt mb-40 titan-title-size-3"><?= $page->headerSubtitle()->text() ?> <span class="rotate"><?= $page->headerRotate()->text() ?></span>
           </div><a class="section-scroll btn btn-border-w btn-circle" href="#icons">Saber más</a>
         </div>
@@ -155,7 +155,13 @@
               <p class="copyright font-alt"><a href="mailto:<?= $page->contactMail()->text() ?>" target="_blank"><?= $page->contactMail()->text() ?></a> - <?= $page->contactAddress()->text() ?></p>
             </div>
             <div class="col-sm-6">
-              <div class="footer-social-links"><a href="tel:<?= $page->contactPhone()->text() ?>" target="_blank"><?= $page->contactPhone()->text() ?></a>
+              <div class="footer-social-links">
+                <a href="tel:<?= $page->contactPhone()->text() ?>" target="_blank">
+                  <?= $page->contactPhone()->text() ?>
+                </a>
+                <a href="https://wa.me/<?= $page->whatsappPhone()->text() ?>" target="_blank">
+                  <i class="fa fa-whatsapp"></i>
+                </a>
               </div>
             </div>
           </div>

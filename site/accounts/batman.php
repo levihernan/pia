@@ -7,6 +7,6 @@ email: nan@maran.co
 language: es_ES
 role: admin
 history:
-  - projects/barca
-  - home
   - projects
+  - home
+  - projects/barca

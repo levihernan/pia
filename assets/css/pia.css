@@ -83,6 +83,9 @@ section.module, div.side-image-text, div.main {
   text-transform: none !important;
 }
 
+.yellow {
+  color: #ff0 !important;
+}
 
 @media (min-width: 767px) {
   .side-image-text{

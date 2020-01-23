@@ -9,7 +9,7 @@
         <li><a class="section-scroll" href="#about">Sobre nosotros</a></li>
         <li><a class="section-scroll" href="#works">Servicios</a></li>
         <?php if($site->find('projects')->hasChildren()): ?>
-          <li><a class="section-scroll" href="#projects">Operaciones</a></li>
+          <li><a class="section-scroll" href="#projects">Inversiones</a></li>
         <?php endif ?>
         <li><a class="section-scroll" href="#contact">Contacto</a></li>
       </ul>
