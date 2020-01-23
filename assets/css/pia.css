@@ -131,6 +131,8 @@ section.module, div.side-image-text, div.main {
 
 .mini_logo{
   font-family: vonique;
-  letter-spacing: 2px;
+  letter-spacing: 2px !important;
   font-weight: bold;
+  font-size: 22px;
+  line-height: 22px;
 }
